@@ -1,6 +1,6 @@
 {
   "name": "@libphamton/api-chatbot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "connect to api chatfanpage",
   "main": "lib/index.js",
   "scripts": {
